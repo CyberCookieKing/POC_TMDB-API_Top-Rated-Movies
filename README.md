@@ -19,7 +19,7 @@ Avant d'exécuter ce programme, assurez-vous d'avoir les éléments suivants :
 Assurez-vous de remplacer la valeur de la constante `API_KEY` dans le fichier `tmdb.c` par votre propre clé API TMDB.
 
 ```c
-#define API_KEY "VOTRE_CLÉ_API"
+#define API_KEY "VOTRE_CLEF_API"
 ```
 
 ## Compilation
